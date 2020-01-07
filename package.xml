@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rtabmap_tools</name>
+  <version>1.0.0</version>
+  <description>
+    Simplifying launch files for rtabmap
+  </description>
+  <maintainer email="tan_you_liang@hotmail.com">Tan You Liang</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
